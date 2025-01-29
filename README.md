@@ -1,4 +1,4 @@
-# Meal-Plan-Scanner---ISP
+# Meal-Plan-Scanner-ISP
 This repository contains the code and development details for a device that scans ID cards to streamline the lunch process. The system works as follows:
 
     ID Card Scan 🎫 – A user scans their ID card using an RFID/NFC scanner.
